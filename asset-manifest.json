@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/solo_project_scrimba/static/css/main.2c55262a.css",
-    "main.js": "/solo_project_scrimba/static/js/main.9a2b37dc.js",
+    "main.js": "/solo_project_scrimba/static/js/main.6f65da83.js",
     "static/js/787.eec75f8c.chunk.js": "/solo_project_scrimba/static/js/787.eec75f8c.chunk.js",
     "index.html": "/solo_project_scrimba/index.html",
     "main.2c55262a.css.map": "/solo_project_scrimba/static/css/main.2c55262a.css.map",
-    "main.9a2b37dc.js.map": "/solo_project_scrimba/static/js/main.9a2b37dc.js.map",
+    "main.6f65da83.js.map": "/solo_project_scrimba/static/js/main.6f65da83.js.map",
     "787.eec75f8c.chunk.js.map": "/solo_project_scrimba/static/js/787.eec75f8c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2c55262a.css",
-    "static/js/main.9a2b37dc.js"
+    "static/js/main.6f65da83.js"
   ]
 }
