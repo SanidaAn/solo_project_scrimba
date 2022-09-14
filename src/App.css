@@ -1,0 +1,105 @@
+.navbar{
+  background-color: #F55A5A;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.navbarTitle{
+  color:white;
+  padding:0 10px 0 10px;
+}
+
+.section{
+  /* border: 5px solid #282c34; */
+  margin:50px;
+
+}
+
+.sectionCard{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin:50px;
+  box-shadow: 0px 13px 21px 4px rgba(0, 0, 0, 0.589);
+  border-radius: 10px;
+}
+
+.sectionTxt{
+  text-align: start;
+  padding:40px;
+}
+
+.imageUrl{
+  /* border: 5px solid #2255bc; */
+  width:20vw;
+  height:35vh;
+  border-radius: 10px;
+}
+
+.firstSpan{
+  display: flex;
+  flex-direction: row;
+  /* background-color: #61dafb; */
+  align-items: center;
+  
+}
+
+.locationIcon{
+  width: 10px;
+  height: 13px;
+}
+
+.location{
+  padding:0 10px 0 10px;
+}
+
+.googleMaps{
+  color:grey;
+}
+
+.startDate,.endDate{
+  font-weight: bold;
+  padding-bottom: 10px;
+}
+/* ################################### */
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
